@@ -27,6 +27,24 @@ No other context needed — the repo, MASTERY_PLAN_V3.md, PRINCIPLES.md, and the
 doc in the Claude project (`claude/plan-v3-scope.md`) carry it.
 The current batch runs through **2026-08-30**; the Aug 29 file schedules the request.
 
+## Day-file format (the contract — every batch must match)
+
+Each day file is **self-contained**: Will should never need another file, or memory of
+yesterday, to execute it. Required sections, in order:
+
+1. `# <Day> — Week N, Day N: <title>` + **Today in one line** + **Time** breakdown
+2. **Boot-up** — `cd /workspaces/python-reps && git pull` → `today`, phone away
+3. One `##` section per block: a **Goal** line, then numbered atomic steps with EXACT
+   commands, URLs, file paths, code cells, and commit messages — never "as usual",
+   never "like yesterday". Repeat ritual commands verbatim every single day.
+   Each block ends with **☑ done when:** one checkable line.
+4. **Micro** — Anki (≤10 min cap) + LOG entry + final commit/push
+5. **Bail-out plan** — what the day shrinks to when life happens (<90 min weekday, <3h weekend)
+6. **Done when** checkboxes · **Log prompt** · **Sources**
+
+The gauntlet line, everywhere it appears:
+`uv run ruff format . && uv run ruff check . && uv run mypy . && uv run pytest`
+
 ## Editing
 
 These are your files. Reorder a day, split a block, push something to tomorrow —
