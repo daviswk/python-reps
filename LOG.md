@@ -8,6 +8,9 @@ Updated READDME.md with the Ten Rules of Engagment. Understanding the git comman
 
 Figured out what the issue with the pre-commit was. I was not staging and chaining commands correct to name the commit. Another lesson learned!
 
-@7:45PM - Went through the first assigment from Exercism. Although I did a python course during my undergrade, I actually needed this refresher. Kind of embarassing that I forgot how to declare functions. Although my code passed all the checks for the exersise, I had a bunch of fixes that needed to be fixed by the PEP 8 guidelines.
-## 20206-08-11 - W1 Fri
+@7:45PM - Went through the first assignment from Exercism. Although I did a python course during my undergrade, I actually needed this refresher. Kind of embarrassing that I forgot how to declare functions. Although my code passed all the checks for the exercise, I had a bunch of fixes that needed to be fixed by the PEP 8 guidelines.
+## 2026-08-11 - W1 Fri
 Honestly lost with the debugger stuff. I had Claude fable help start this project. Instructions are unclear at times. I think once I get started with just coding, I'll get into a better flow of things. Decided to watch a video series on debugging: https://www.youtube.com/watch?v=Mkh8z_2IleA&list=PL2cY8q6bHRcFnVNBGogUEE31HNBCjUR2og
+
+## 2026-08-16 - W1 Sun
+Re-Tooling this entire plan and uploading V3 of the curriculum. Removing unnecessary modules.
