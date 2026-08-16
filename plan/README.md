@@ -23,7 +23,8 @@ Saturday review inside the final written week, paste one line to Claude:
 
 > Generate plan files for Weeks N–M.
 
-No other context needed — the repo, MASTERY_PLAN_V2.md, and PRINCIPLES.md carry it.
+No other context needed — the repo, MASTERY_PLAN_V3.md, PRINCIPLES.md, and the scope
+doc in the Claude project (`claude/plan-v3-scope.md`) carry it.
 The current batch runs through **2026-08-30**; the Aug 29 file schedules the request.
 
 ## Editing
